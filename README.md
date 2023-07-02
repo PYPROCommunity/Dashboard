@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# PYPRO Community Event
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the PYPRO Community Event! We are excited to bring together Tech enthusiasts, developers, and learners for a day filled with learning, collaboration, and networking.
 
-## Available Scripts
+## About PYPRO Community
 
-In the project directory, you can run:
+PYPRO Community is a passionate group of developers and enthusiasts who aim to foster knowledge sharing, support, and growth within the Techie ecosystem. Our community is open to everyone, from beginners to experienced professionals, and we welcome individuals from diverse backgrounds.
 
-### `npm start`
+## Event Highlights
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Keynote speeches from renowned Industry experts
+- Technical talks and workshops covering various Tech-related topics
+- Networking opportunities to connect with fellow Techie enthusiasts
+- Interactive Q&A sessions with industry professionals
+- Lightning talks where participants can share their Tech projects and experiences
+- Community showcase of Tech libraries, frameworks, and tools
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Schedule
 
-### `npm test`
+- Sharing You Soon
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Registration
 
-### `npm run build`
+To attend the PYPRO Community Event, please follow the registration process outlined on our website [URL]. Registration is free, but seats are limited, so make sure to secure your spot early.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Get Involved
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+We encourage community members to actively participate and contribute to the event. Here are a few ways you can get involved:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Submit a talk or workshop proposal: Share your knowledge and expertise with the community by delivering a talk or conducting a workshop. Submit your proposal through our website [link].
 
-### `npm run eject`
+- Volunteer: Help us make the event a success by volunteering your time and skills. Whether it's assisting with event logistics, managing registrations, or providing technical support, we appreciate any help you can offer. Reach out to our volunteer coordinators at [insert contact email] to express your interest.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Spread the word: Help us promote the PYPRO Community Event by sharing the event details with your friends, colleagues, and social media networks. Use the hashtag #PYPROCommunityEvent to join the conversation online.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contact Us
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+If you have any questions, suggestions, or inquiries about the PYPRO Community Event, please feel free to reach out to our event organizers at [insert contact email]. We are here to assist you and ensure you have a memorable experience at the event.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+We look forward to seeing you at the PYPRO Community Event!
 
-## Learn More
+Best regards,
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+PYPRO Community Organizing Team
