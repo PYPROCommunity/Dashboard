@@ -1,6 +1,7 @@
 import React from "react";
 import '../style/Content.css'
 import Eventcard from "./Eventcard";
+import Eventlist from "./Eventlist";
 
 const Content = () => {
     return (
@@ -15,15 +16,15 @@ const Content = () => {
                     <section id="events">
                         <h2>Upcoming Events</h2>
                         <ul id="event-list">
-                            <Eventcard/>
+                            <Eventlist/>
                         </ul>
                     </section>
 
-                    <section id="projects">
+                    {/* <section id="projects">
                         <h2>Open Projects</h2>
                         <ul id="project-list">
                         </ul>
-                    </section>
+                    </section> */}
 
                 </main>
                 <script src="script.js"></script>

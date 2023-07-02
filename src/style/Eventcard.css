@@ -1,4 +1,5 @@
 .event-card {
+    margin-top: 20px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -27,7 +28,9 @@
   }
   
   .event-date,
-  .event-location {
+  .event-location,
+  .event-time,
+  .event-category {
     color: #666;
     margin-bottom: 5px;
   }
